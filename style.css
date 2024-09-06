@@ -1,0 +1,77 @@
+body {
+    background: rgb(15, 17, 19);
+    color: white;
+}
+
+.first {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.liverpool_city {
+    width: 700px;
+    height: 300px;
+}
+.welcome {
+    text-align: center;
+}
+
+.alber_dock {
+    width: 300px;
+    border-radius: 15%;
+}
+.beatles {
+    width: 300px;
+    border-radius: 15%;
+}
+.second {
+    width: 600px;
+    display:flex;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.second_one {
+    text-align: center;
+}
+.second_two {
+    text-align: center;
+}
+
+.anfield {
+    width: 300px;
+    border-radius: 15%;
+}
+.everton {
+    width: 300px;
+    border-radius: 15%;
+}
+
+
+.third {
+    width: 600px;
+    display:flex;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.third_one {
+    text-align: center;
+}
+.third_two {
+    text-align: center;
+}
+
+.zabih {
+    width: 100;
+    border-radius: 50px;
+}
+footer{
+    width: 250px;
+    display: flex;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
